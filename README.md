@@ -11,9 +11,13 @@
 - run the server ```npm run start```
 - open your browser in ```localhost:4200```
 
+# Can I check the page?
+
+- Yes! the page is working -> [here](https://mean-app-fe.vercel.app/)
+
 # Status
 
-- For status you can check the issues section -> [Here](https://github.com/jd-apprentice/MEAN-APP/issues/5)
+- For status you can check the issues section -> [here](https://github.com/jd-apprentice/MEAN-APP/issues/5)
 
 # Stack
 
