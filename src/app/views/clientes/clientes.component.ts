@@ -18,11 +18,21 @@ export class ClientesComponent implements OnInit {
     });
   }
 
-  editarCliente(cliente: Employee) {
+  editClient(cliente: Employee) {
     console.log(cliente);
   }
 
-  eliminarCliente(cliente: Employee) {
+  deleteClient(cliente: Employee) {
     console.log(cliente);
   }
+
+  displayedColumns: string[] = [
+    'firstName',
+    'lastName',
+    'email',
+    'phone',
+    'position',
+    'salary',
+    'actions'
+  ];
 }

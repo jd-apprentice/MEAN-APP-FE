@@ -11,6 +11,7 @@ import { RouterModule } from '@angular/router';
 import { HomeModule } from './views/home/home.module';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { MaterialModule } from './shared/material.module';
+import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 @NgModule({
   declarations: [
     AppComponent,
@@ -25,7 +26,8 @@ import { MaterialModule } from './shared/material.module';
     HomeModule,
     NgbModule,
     FontAwesomeModule,
-    MaterialModule
+    MaterialModule,
+    BrowserAnimationsModule
   ],
   providers: [EmployeesService],
   bootstrap: [AppComponent]
