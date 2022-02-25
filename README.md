@@ -1,4 +1,4 @@
-# 💼 Employee Managment FE 
+# 💼 Employee Management FE 
 
 <img src="https://eezee.sg/blog/wp-content/uploads/2018/06/Artboard-3@3x-1200x675.png">
 
