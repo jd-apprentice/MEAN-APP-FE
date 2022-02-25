@@ -42,10 +42,6 @@ Here is my insomnia file with routes, body and more -> [Sync](https://ln5.sync.c
 - Typescript
 - Material
 
-## 👨‍💻 Contributors
-
-- [jd-apprentice](https://github.com/jd-apprentice)
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
